@@ -1,1 +1,1 @@
-Deneme
+Birkan hocamın ödevi için hiçbir şey anlamadan yaptığım ama galiba başardığım bir deneme.
