@@ -1,0 +1,38 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 800px;
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    text-align: center;
+    
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: white;
+    border-radius: 15px;
+    height: 450px;
+    margin-top: 200px;
+    box-shadow: 3px 3px 15px;
+    border: 10px solid white;
+    
+}
+
+img{
+  
+    border-radius: 15px;
+}
+
+.p1{
+    font-weight: 700;
+}
+
+.p2{
+    font-weight: 400;
+}
